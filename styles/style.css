@@ -10,15 +10,16 @@ h1{
 }
 
 #grid {
-	height:432px;
-	width:432px;
+	height:400px;
+	width:400px;
 	margin:0 auto;
+	border:solid 1px black;
 }
 
 .box {
 	height:25px;
 	width:25px;
-	border:1px solid black;
+	
 	float:right;
 }
 
